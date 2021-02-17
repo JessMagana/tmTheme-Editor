@@ -306,6 +306,7 @@
 {"name":"Gloom","url":"https://raw.githubusercontent.com/daylerees/colour-schemes/master/sublime/gloom.tmTheme","light":false},
 {"name":"Glowfish Contrast","url":"https://raw.githubusercontent.com/daylerees/colour-schemes/master/sublime/contrast/glowfish-contrast.tmTheme","light":false},
 {"name":"Glowfish","url":"https://raw.githubusercontent.com/daylerees/colour-schemes/master/sublime/glowfish.tmTheme","light":false},
+{"name":"Gob","url":"https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/gob.rstheme","light":false},
 {"name":"Goldendragon","url":"https://raw.githubusercontent.com/zaynali53/golden-dragon/master/GoldenDragon.tmTheme","light":false},
 {"name":"Goldfish Contrast","url":"https://raw.githubusercontent.com/daylerees/colour-schemes/master/sublime/contrast/goldfish-contrast.tmTheme","light":false},
 {"name":"Goldfish","url":"https://raw.githubusercontent.com/daylerees/colour-schemes/master/sublime/goldfish.tmTheme","light":false},
